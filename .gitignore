@@ -119,6 +119,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+smart_key/
 
 # Spyder project settings
 .spyderproject
